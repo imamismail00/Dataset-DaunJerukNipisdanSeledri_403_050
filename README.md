@@ -1,38 +1,26 @@
 # Dataset Daun Jeruk Nipis dan Seledri
 
-## DataSet
+## Dataset
 
 Dataset adalah sebuah kumpulan data yang bersifat sebagai himpunan data yang berasal dari informasi-informasi pada masa sebelumnya dan siap untuk dikelola menjadi sebuah informasi baru dengan menggunakan teknik pembelajaran superised learning. Dimana digunakan untuk sistem prediksi sebagai acuan pendukung keputusan.
 
-## Getting Started
+## Tugas Dataset
 
-### Dependencies
+* Mengambil gambar sebanyak 2 label, dengan masing-masing label berisi 50 gambar.
+* Dataset dimasukkan/di push di salah satu github anggota kelompok.
+* Buat file README.md dan berikan penjelasan atau dokumentasi mengenai dataset tersebut.
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+## Sebelum Mengerjakan
 
-### Installing
+### Yang Perlu Disiapkan
+
+* Memliki akun github
+
+### Menginstal
 
 * Git
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Authors
 
 * Imam Ismail Tambili 403
 * Andi Aji Saputra 050
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
